@@ -1,5 +1,11 @@
 ## 4.3.0
 
+## 6.0.4
+
+### Patch Changes
+
+- [`c682893f`](https://github.com/electron-userland/electron-builder/commit/c682893f0140074787243967c9e873180c02ae9c) Thanks [@ganthern](https://github.com/ganthern)! - fix: handle errors on responses in differential download (#2398)
+
 ## 6.0.3
 
 ### Patch Changes
